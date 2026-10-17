@@ -1,0 +1,7 @@
+[2026-10-17T23:21:23Z] === AST ITERATION 1 START | repo=colcon/colcon-recursive-crawl sha=645281d4 ===
+[2026-10-17T23:21:23Z] [iter=1] PHASE START: ast repo=colcon/colcon-recursive-crawl sha=645281d4
+[2026-10-17T23:21:23Z] [iter=1] Building AST aggregate chunks
+[2026-10-17T23:21:24Z] [iter=1] AST chunks built count=1 triples=9543
+[2026-10-17T23:21:24Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/645281d4233a6b909fa9546a5bf360d39a715a7f/.complete
+[2026-10-17T23:21:24Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-10-17T23:21:24Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

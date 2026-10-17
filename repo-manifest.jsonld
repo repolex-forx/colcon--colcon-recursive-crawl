@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/colcon/colcon-recursive-crawl/commit/645281d4233a6b909fa9546a5bf360d39a715a7f",
       "git:hexsha": "645281d4233a6b909fa9546a5bf360d39a715a7f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/colcon/colcon-recursive-crawl/commit/72316857e9355026dd0435302177bd43b948f4f4",
