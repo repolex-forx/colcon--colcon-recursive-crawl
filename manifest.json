@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "colcon",
+  "repo": "colcon-recursive-crawl",
+  "versions": [
+    {
+      "commit": "645281d4233a6b909fa9546a5bf360d39a715a7f",
+      "parsed_at": "2026-10-17T23:19:13.050891+00:00",
+      "filetree": "filetree/645281d4233a6b909fa9546a5bf360d39a715a7f.nq.gz",
+      "blobs": [
+        "blob/0f17157ed42b486a0c57cbffddd97987a4844e6b.nq.gz",
+        "blob/3ebc1bca3dc9eef5822e4ae83a74fb240965b8ff.nq.gz",
+        "blob/564465c231fafe0a00586317d1c519587378dc3b.nq.gz",
+        "blob/fe623ed3c61efeaefed8cb33ec347d388f218e5e.nq.gz",
+        "blob/bd7c8693b373f16474a10254e75b502ef8389f27.nq.gz",
+        "blob/f172ba418a5710213278041c9d035a6f8732dfa8.nq.gz",
+        "blob/e82fd0b0abbf1472480d19d468efe7819276e80d.nq.gz",
+        "blob/cf943d2f8aa9719c5ea8320ace481784da2969d9.nq.gz",
+        "blob/dffe460f162da9929178a7ce342532e7ba896425.nq.gz",
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz",
+        "blob/367a701a37b7a60d73de2cbdebcc138a7b8307dd.nq.gz",
+        "blob/bebe3811f51e5f0e363bd5f2ee261c2f95e6f30c.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/a0ebe91c6cf7732cc16ac88702c5875280719dfa.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
